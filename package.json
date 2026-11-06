@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "Windows Electron Desktop Companion for real-time coding suggestions powered by Groq Vision AI",
   "main": "dist/main/main.js",
-  "author": "AI Companion Team",
+  "author": "Mohith Kusha Kumar (https://github.com/Mohithkushakumar511)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mohithkushakumar511/AI-Companion.git"
+  },
   "license": "MIT",
   "scripts": {
     "build:helper": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\csc.exe /nologo /target:exe /out:resources\\active_window.exe resources\\ActiveWindow.cs",
